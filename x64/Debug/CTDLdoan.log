@@ -1,0 +1,224 @@
+﻿  CD.cpp
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(293,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(293,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(293,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(293,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(293,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(330,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(330,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(330,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(330,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(330,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(365,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(365,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(365,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(365,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(365,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(408,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(408,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(408,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(408,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(408,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(458,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(458,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(458,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(458,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(458,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(631,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(631,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(631,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(631,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(631,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(651,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(651,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(651,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(651,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(651,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(670,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(670,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(670,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(670,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(670,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(690,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(690,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(690,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(690,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(690,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(710,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(710,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(710,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(710,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(710,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(884,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(884,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(884,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(884,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(884,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(904,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(904,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(904,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(904,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(904,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(923,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(923,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(923,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(923,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(923,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(943,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(943,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(943,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(943,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(943,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(963,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(963,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(963,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(963,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(963,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1125,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1125,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1125,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1125,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1125,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1145,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1145,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1145,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1145,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1145,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1164,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1164,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1164,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1164,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1164,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1184,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1184,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1184,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1184,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1184,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1204,30): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1204,30): warning C4244:         with
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1204,30): warning C4244:         [
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1204,30): warning C4244:             _Rep=__int64
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1204,30): warning C4244:         ]
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1236,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1237,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1238,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1240,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1240,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1240,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1240,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1241,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1241,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1241,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1241,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1242,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1242,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1242,17): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1242,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1243,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1243,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1247,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1253,21): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1259,21): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1263,21): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1309,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1310,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1311,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1313,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1313,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1313,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1313,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1314,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1314,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1314,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1314,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1315,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1315,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1315,17): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1315,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1316,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1316,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1320,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1326,21): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1332,21): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1336,21): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1384,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1385,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1386,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1388,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1388,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1388,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1388,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1389,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1389,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1389,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1389,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1390,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1390,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1390,17): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1390,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1391,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1391,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1395,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1456,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1457,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1458,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1460,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1460,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1460,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1460,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1461,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1461,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1461,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1461,17): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1462,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1462,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1462,17): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1462,17): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1463,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1463,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1467,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1527,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1527,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1527,17): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1527,17): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1528,17): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1529,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1529,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1529,17): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1529,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1530,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1530,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1530,17): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1530,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\DuAn\CTDLdoan\CTDLdoan\CD.cpp(1532,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  CTDLdoan.vcxproj -> D:\DuAn\CTDLdoan\x64\Debug\CTDLdoan.exe
